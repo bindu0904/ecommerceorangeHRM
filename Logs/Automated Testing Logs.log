@@ -1,0 +1,18 @@
+2024-07-23 18:26:10,885 [main] [INFO ] rootLogger:45:Loginpageobjects.java - Entered the username
+2024-07-23 18:26:11,037 [main] [INFO ] rootLogger:61:Loginpageobjects.java - Entered the password
+2024-07-23 18:26:11,864 [main] [INFO ] rootLogger:75:Loginpageobjects.java - Clicked on Submit
+2024-07-23 18:29:41,573 [main] [INFO ] rootLogger:45:Loginpageobjects.java - Entered the username
+2024-07-23 18:29:41,704 [main] [INFO ] rootLogger:61:Loginpageobjects.java - Entered the password
+2024-07-23 18:29:42,570 [main] [INFO ] rootLogger:75:Loginpageobjects.java - Clicked on Submit
+2024-07-23 18:31:54,075 [main] [INFO ] rootLogger:88:Loginpageobjects.java - Entered the usernamepavan
+2024-07-23 18:31:54,122 [main] [ERROR] rootLogger:95:Loginpageobjects.java - Keys to send should be a not null CharSequence
+2024-07-23 18:32:03,812 [main] [ERROR] rootLogger:95:Loginpageobjects.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.128)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a0b17a4266fb3126f273b3272f54bab, findElement {using=xpath, value=//input[@name='username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.128, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\chinn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59929}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59929/devtoo..., se:cdpVersion: 126.0.6478.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0b17a4266fb3126f273b3272f54bab
+2024-07-23 18:32:13,505 [main] [ERROR] rootLogger:47:Loginpageobjects.java - This is failed at entering username
